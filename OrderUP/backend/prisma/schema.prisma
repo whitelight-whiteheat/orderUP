@@ -1,0 +1,215 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id        String   @id @default(cuid())
+  email     String   @unique
+  password  String
+  firstName String
+  lastName  String
+  phone     String?
+  avatar    String?
+  role      UserRole @default(CUSTOMER)
+  isActive  Boolean  @default(true)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // Relations
+  addresses    Address[]
+  orders       Order[]
+  reviews      Review[]
+  payments     Payment[]
+
+  @@map("users")
+}
+
+model Address {
+  id       String  @id @default(cuid())
+  userId   String
+  street   String
+  city     String
+  state    String
+  zipCode  String
+  country  String  @default("US")
+  isDefault Boolean @default(false)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // Relations
+  user  User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+  orders Order[]
+
+  @@map("addresses")
+}
+
+model Restaurant {
+  id          String   @id @default(cuid())
+  name        String
+  description String?
+  image       String?
+  phone       String
+  email       String
+  address     String
+  city        String
+  state       String
+  zipCode     String
+  country     String   @default("US")
+  latitude    Float?
+  longitude   Float?
+  isActive    Boolean  @default(true)
+  rating      Float    @default(0)
+  deliveryFee Float    @default(0)
+  minOrder    Float    @default(0)
+  estimatedTime String @default("30-45 min")
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  // Relations
+  menus   Menu[]
+  orders  Order[]
+  reviews Review[]
+
+  @@map("restaurants")
+}
+
+model Menu {
+  id           String   @id @default(cuid())
+  restaurantId String
+  name         String
+  description  String?
+  image        String?
+  price        Float
+  category     String
+  isAvailable  Boolean  @default(true)
+  isVegetarian Boolean  @default(false)
+  isVegan      Boolean  @default(false)
+  isGlutenFree Boolean  @default(false)
+  isSpicy      Boolean  @default(false)
+  calories     Int?
+  allergens    String[]
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  // Relations
+  restaurant Restaurant @relation(fields: [restaurantId], references: [id], onDelete: Cascade)
+  orderItems OrderItem[]
+
+  @@map("menus")
+}
+
+model Order {
+  id           String      @id @default(cuid())
+  userId       String
+  restaurantId String
+  addressId    String
+  status       OrderStatus @default(PENDING)
+  subtotal     Float
+  tax          Float
+  deliveryFee  Float
+  tip          Float?
+  total        Float
+  notes        String?
+  estimatedTime String?
+  createdAt    DateTime    @default(now())
+  updatedAt    DateTime    @updatedAt
+
+  // Relations
+  user       User        @relation(fields: [userId], references: [id])
+  restaurant Restaurant  @relation(fields: [restaurantId], references: [id])
+  address    Address     @relation(fields: [addressId], references: [id])
+  items      OrderItem[]
+  payments   Payment[]
+
+  @@map("orders")
+}
+
+model OrderItem {
+  id       String @id @default(cuid())
+  orderId  String
+  menuId   String
+  quantity Int
+  price    Float
+  notes    String?
+
+  // Relations
+  order Order @relation(fields: [orderId], references: [id], onDelete: Cascade)
+  menu  Menu  @relation(fields: [menuId], references: [id])
+
+  @@map("order_items")
+}
+
+model Payment {
+  id        String        @id @default(cuid())
+  orderId   String
+  userId    String
+  amount    Float
+  status    PaymentStatus @default(PENDING)
+  method    PaymentMethod
+  stripeId  String?
+  createdAt DateTime      @default(now())
+  updatedAt DateTime      @updatedAt
+
+  // Relations
+  order Order @relation(fields: [orderId], references: [id])
+  user  User  @relation(fields: [userId], references: [id])
+
+  @@map("payments")
+}
+
+model Review {
+  id           String @id @default(cuid())
+  userId       String
+  restaurantId String
+  orderId      String
+  rating       Int    @db.SmallInt
+  comment      String?
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  // Relations
+  user       User       @relation(fields: [userId], references: [id])
+  restaurant Restaurant @relation(fields: [restaurantId], references: [id])
+
+  @@unique([userId, orderId])
+  @@map("reviews")
+}
+
+// Enums
+enum UserRole {
+  CUSTOMER
+  ADMIN
+  RESTAURANT_OWNER
+  DELIVERY_PERSON
+}
+
+enum OrderStatus {
+  PENDING
+  CONFIRMED
+  PREPARING
+  READY
+  OUT_FOR_DELIVERY
+  DELIVERED
+  CANCELLED
+}
+
+enum PaymentStatus {
+  PENDING
+  COMPLETED
+  FAILED
+  REFUNDED
+}
+
+enum PaymentMethod {
+  CARD
+  CASH
+  WALLET
+}
