@@ -1,5 +1,4 @@
 // Common types used throughout the application
-
 export interface ApiResponse<T = any> {
   success: boolean;
   message: string;
@@ -48,29 +47,7 @@ export interface AuthTokens {
   expiresIn: string;
 }
 
-// Restaurant types
-export interface Restaurant {
-  id: string;
-  name: string;
-  description?: string;
-  image?: string;
-  phone: string;
-  email: string;
-  address: string;
-  city: string;
-  state: string;
-  zipCode: string;
-  country: string;
-  latitude?: number;
-  longitude?: number;
-  isActive: boolean;
-  rating: number;
-  deliveryFee: number;
-  minOrder: number;
-  estimatedTime: string;
-  createdAt: Date;
-  updatedAt: Date;
-}
+
 
 // Menu types
 export interface MenuItem {
@@ -119,7 +96,7 @@ export interface OrderItem {
   notes?: string;
 }
 
-export type OrderStatus = 
+export type OrderStatus =
   | 'PENDING'
   | 'CONFIRMED'
   | 'PREPARING'

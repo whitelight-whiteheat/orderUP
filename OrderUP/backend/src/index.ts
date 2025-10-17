@@ -6,6 +6,8 @@ import rateLimit from 'express-rate-limit';
 import { config } from './config';
 import { connectDatabase } from './config/database';
 import { logger, morganStream } from './config/logger';
+import authRoutes from './routes/authRoutes';
+import restaurantRoutes from './routes/restaurantRoutes';
 
 // Create Express app
 const app = express();
@@ -15,7 +17,7 @@ app.use(helmet());
 
 // CORS configuration
 app.use(cors({
-  origin: config.server.isDevelopment 
+  origin: config.server.isDevelopment
     ? ['http://localhost:3000', 'http://localhost:3001'] 
     : ['https://yourdomain.com'],
   credentials: true,
@@ -63,6 +65,12 @@ app.get('/api', (req, res) => {
     documentation: '/api-docs'
   });
 });
+
+// Authentication routes
+app.use('/api/auth', authRoutes);
+
+// Restaurant routes
+app.use('/api/restaurants', restaurantRoutes);
 
 // 404 handler
 app.use('*', (req, res) => {

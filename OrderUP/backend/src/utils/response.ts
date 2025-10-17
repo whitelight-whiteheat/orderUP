@@ -1,5 +1,29 @@
 import { Response } from 'express';
-import { ApiResponse } from '../types';
+
+// ApiResponse class for consistent API responses
+export class ApiResponse<T = any> {
+  success: boolean;
+  message: string;
+  data?: T;
+  error?: string;
+  errors?: any;
+
+  constructor(success: boolean, message: string, data?: T, error?: string, errors?: any) {
+    this.success = success;
+    this.message = message;
+    this.data = data;
+    this.error = error;
+    this.errors = errors;
+  }
+
+  static success<T>(data: T, message: string = 'Success'): ApiResponse<T> {
+    return new ApiResponse(true, message, data);
+  }
+
+  static error(message: string, statusCode: number = 500, errors?: any): ApiResponse {
+    return new ApiResponse(false, message, undefined, message, errors);
+  }
+}
 
 // Success response helper
 export const sendSuccess = <T>(
@@ -101,7 +125,7 @@ export const sendPaginatedResponse = <T>(
   },
   message: string = 'Success'
 ): Response => {
-  const response: ApiResponse<T[]> = {
+  const response: any = {
     success: true,
     message,
     data,

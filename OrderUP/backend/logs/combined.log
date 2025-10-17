@@ -1,0 +1,1392 @@
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:05:55'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:05:55'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:05:55'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:05:55'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:06:32'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:06:32'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:06:32'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:06:32'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:07:14'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:07:14'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:07:14'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:07:14'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:07:42'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:07:42'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:07:42'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:07:42'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:07:56'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:07:56'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:07:56'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:07:56'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:10:47'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:10:47'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:10:47'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:10:47'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:10:51'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:10:51'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:10:51'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:10:51'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:10:59'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:10:59'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:10:59'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:10:59'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:11:03'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:11:03'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:11:03'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:11:03'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:11:06'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:11:06'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:11:06'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:11:06'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:11:18'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:11:18'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:11:18'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:11:18'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:11:22'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:11:22'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:11:22'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:11:22'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:11:25'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:11:25'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:11:25'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 15:11:25'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:09:39'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:09:39'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:09:39'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:09:39'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:09:47'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:09:47'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:09:47'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:09:47'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:10:01'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:10:01'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:10:01'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:10:01'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:10:22'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:10:22'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:10:22'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:10:22'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:11:02'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:11:02'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:11:02'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:11:02'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:11:17'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:11:17'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:11:17'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:11:17'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:11:21'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:11:21'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:11:21'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:11:21'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:11:30'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:11:30'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:11:30'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:11:30'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:11:43'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:11:43'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:11:43'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:11:43'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:11:59'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:11:59'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:11:59'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:11:59'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:12:08'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:12:08'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:12:08'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:12:08'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:13:37'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:13:37'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:13:37'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:13:37'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:13:58'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:13:58'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:13:58'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:13:58'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:14:11'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:14:11'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:14:11'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:14:11'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:14:17'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:14:17'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:14:17'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:14:17'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:14:24'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:14:24'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:14:24'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:14:24'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:14:35'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:14:35'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:14:35'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:14:35'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:14:44'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:14:44'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:14:44'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:14:44'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:14:53'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:14:53'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:14:53'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:14:53'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:15:06'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:15:06'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:15:06'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:15:06'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:15:16'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:15:16'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:15:16'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:15:16'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:15:20'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:15:20'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:15:20'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:15:20'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:15:31'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:15:31'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:15:31'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:15:31'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:15:35'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:15:35'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:15:35'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:15:35'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:15:58'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:15:58'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:15:58'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:15:58'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:16:00'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:16:00'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:16:00'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:16:00'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:16:06'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:16:06'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:16:06'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:16:06'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:17:17'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:17:17'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:17:17'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:17:17'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:17:22'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:17:22'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:17:22'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:17:22'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:18:07'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:18:07'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:18:07'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:18:07'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:20:13'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:20:13'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:20:13'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:20:13'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:21:05'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:21:05'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:21:05'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:21:05'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:21:22'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:21:22'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:21:22'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:21:22'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:21:38'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:21:38'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:21:38'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:21:38'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:21:41'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:21:41'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:21:41'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:21:41'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:21:48'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:21:48'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:21:48'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:21:48'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:21:57'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:21:57'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:21:57'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:21:57'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:22:24'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:22:24'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:22:24'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:22:24'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:22:26'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:22:26'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:22:26'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:22:26'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:22:33'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:22:33'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:22:33'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:22:33'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:23:17'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:23:17'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:23:17'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:23:17'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:23:26'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:23:26'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:23:26'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:23:26'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:23:39'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:23:39'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:23:39'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:23:39'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:23:43'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:23:43'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:23:43'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:23:43'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:23:49'
+}
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:23:49'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:23:49'
+}
+{
+  message: '🔗 Health check: http://localhost:3000/health',
+  level: 'info',
+  service: 'orderup-backend',
+  timestamp: '2025-10-16 16:23:49'
+}

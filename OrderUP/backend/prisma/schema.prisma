@@ -1,4 +1,4 @@
-// This is your Prisma schema file,
+// Prisma schema file,
 // learn more about it in the docs: https://pris.ly/d/prisma-schema
 
 generator client {
@@ -28,6 +28,7 @@ model User {
   orders       Order[]
   reviews      Review[]
   payments     Payment[]
+  restaurants  Restaurant[]
 
   @@map("users")
 }
@@ -70,10 +71,12 @@ model Restaurant {
   deliveryFee Float    @default(0)
   minOrder    Float    @default(0)
   estimatedTime String @default("30-45 min")
+  ownerId     String
   createdAt   DateTime @default(now())
   updatedAt   DateTime @updatedAt
 
   // Relations
+  owner   User      @relation(fields: [ownerId], references: [id])
   menus   Menu[]
   orders  Order[]
   reviews Review[]

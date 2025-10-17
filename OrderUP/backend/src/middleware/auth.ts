@@ -27,7 +27,7 @@ interface JWTPayload {
 }
 
 // Authentication middleware
-export const authenticate = async (
+export const authenticateToken = async (
   req: Request,
   res: Response,
   next: NextFunction
@@ -68,8 +68,8 @@ export const authenticate = async (
     }
 
     // Attach user to request
-    req.user = {
-      id: user.id,
+    (req as any).user = {
+      userId: user.id,
       email: user.email,
       role: user.role
     };
